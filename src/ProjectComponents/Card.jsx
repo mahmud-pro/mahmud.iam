@@ -8,7 +8,7 @@ export default function Card(props) {
         <div className="card">
           <img className="card-img-top" src={props.imgsrc} alt="Card image cap" />
           <div className="card-body">
-            <h5 className="card-title ">{props.CardTitle}</h5>
+            <h5 className="card-title ">{props.title}</h5>
             <p className="card-text">
               {props.cardText}
             </p>
