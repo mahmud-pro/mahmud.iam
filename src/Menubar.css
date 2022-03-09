@@ -1,0 +1,22 @@
+.menu_style{
+    width: 100%;
+    line-height: 60px;
+    background-color: rgb(124, 122, 126);
+    display: flex;
+    justify-content: space-around;
+    color: aqua;
+
+}
+.extraStyle{
+    text-decoration: none;
+    font-size: larger;
+    color: black;
+    font-weight: 800;
+}
+
+.active_class{
+    color: aliceblue;
+    text-decoration: none;
+    border-bottom: 5px solid rgb(211, 43, 43);
+}
+
