@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/mahmud.iam/static/css/main.fcf4646f.css",
+    "main.js": "/mahmud.iam/static/js/main.68f484ad.js",
+    "static/media/android.jpeg": "/mahmud.iam/static/media/android.243d235acb923c47d3c4.jpeg",
+    "static/media/web.webp": "/mahmud.iam/static/media/web.564347a9852cb3e641eb.webp",
+    "static/media/marketing.webp": "/mahmud.iam/static/media/marketing.cdd05dea3eab7d25f82d.webp",
+    "static/media/software.webp": "/mahmud.iam/static/media/software.5a1f0177e1aa32f0da7b.webp",
+    "static/media/digital.webp": "/mahmud.iam/static/media/digital.dbcfde9a072f3d3d9600.webp",
+    "static/media/app.webp": "/mahmud.iam/static/media/app.bca248695dd6e6efe05c.webp",
+    "static/media/img1.jpg": "/mahmud.iam/static/media/img1.13f9648d775a9f97f911.jpg",
+    "static/media/service.jpg": "/mahmud.iam/static/media/service.4e402c8ef1cbcb2042fc.jpg",
+    "index.html": "/mahmud.iam/index.html",
+    "main.fcf4646f.css.map": "/mahmud.iam/static/css/main.fcf4646f.css.map",
+    "main.68f484ad.js.map": "/mahmud.iam/static/js/main.68f484ad.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fcf4646f.css",
+    "static/js/main.68f484ad.js"
+  ]
+}
